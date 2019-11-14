@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1514461409 source:d:\03 - 程式語言\homework\main.cpp
+	"homeword.h"
+
+1514461196 d:\03 - 程式語言\homework\homeword.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<cstring>
+
+1514813499 source:d:\03 - 程式語言\ji3\homework\main.cpp
+	"homeword.h"
+
+1514813104 d:\03 - 程式語言\ji3\homework\homeword.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<cstring>
+	<conio.h>
+	<windows.h>
+	<string.h>
+
